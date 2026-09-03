@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Hello! Description 
 
-My name is Cyndi and I am currently a senior. On campus I'm involved with the Entropy Dance Team as well as the Health Leadership Program. I really enjoy baking and trying new recipes with my friends in my free time. I am super close with my older sister Andi, our names rhyme. 
+My name is Cyndi and I am currently a senior. On campus I'm involved with the dance team and health programs. I really enjoy baking and trying new recipes with my friends in my free time. I am super close with my older sister. 
 
 ## GitHub Account
 Here is my GitHub Account: 
